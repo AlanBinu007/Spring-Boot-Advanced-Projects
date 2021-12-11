@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2swagger2.config;
+package net.alanbinu.springboot2.springboot2swagger2.config;
 
 import static springfox.documentation.builders.PathSelectors.regex;
 
@@ -23,7 +23,7 @@ public class Swagger2Config {
 	public Docket api() {
 		return new Docket(DocumentationType.SWAGGER_2).select()
 				.apis(RequestHandlerSelectors
-						.basePackage("net.guides.springboot2.springboot2swagger2.controller"))
+						.basePackage("net.alanbinu.springboot2.springboot2swagger2.controller"))
 				.paths(PathSelectors.regex("/.*"))
 				.build().apiInfo(apiEndPointsInfo());
 	}
@@ -32,7 +32,7 @@ public class Swagger2Config {
 
 		return new ApiInfoBuilder().title("Spring Boot REST API")
 				.description("Employee Management REST API")
-				.contact(new Contact("Ramesh Fadatare", "www.javaguides.net", "ramesh24fadatare@gmail.com"))
+				.contact(new Contact("Ramesh Fadatare", "www.javaalanbinu.net", "ramesh24fadatare@gmail.com"))
 				.license("Apache 2.0")
 				.licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
 				.version("1.0.0")

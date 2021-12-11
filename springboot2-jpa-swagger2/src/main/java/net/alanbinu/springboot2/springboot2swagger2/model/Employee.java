@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2swagger2.model;
+package net.alanbinu.springboot2.springboot2swagger2.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

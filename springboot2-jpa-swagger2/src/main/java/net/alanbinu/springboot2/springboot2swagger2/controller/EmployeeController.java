@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2swagger2.controller;
+package net.alanbinu.springboot2.springboot2swagger2.controller;
 
 import java.util.HashMap;
 import java.util.List;
@@ -22,9 +22,9 @@ import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
-import net.guides.springboot2.springboot2swagger2.exception.ResourceNotFoundException;
-import net.guides.springboot2.springboot2swagger2.model.Employee;
-import net.guides.springboot2.springboot2swagger2.repository.EmployeeRepository;
+import net.alanbinu.springboot2.springboot2swagger2.exception.ResourceNotFoundException;
+import net.alanbinu.springboot2.springboot2swagger2.model.Employee;
+import net.alanbinu.springboot2.springboot2swagger2.repository.EmployeeRepository;
 
 @RestController
 @RequestMapping("/api/v1")

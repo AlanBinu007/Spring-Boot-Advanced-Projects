@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2swagger2.exception;
+package net.alanbinu.springboot2.springboot2swagger2.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
