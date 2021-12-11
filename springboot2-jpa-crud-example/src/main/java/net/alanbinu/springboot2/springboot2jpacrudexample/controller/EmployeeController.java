@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.controller;
+package net.alanbinu.springboot2.springboot2jpacrudexample.controller;
 
 import java.util.HashMap;
 import java.util.List;
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.guides.springboot2.springboot2jpacrudexample.exception.ResourceNotFoundException;
-import net.guides.springboot2.springboot2jpacrudexample.model.Employee;
-import net.guides.springboot2.springboot2jpacrudexample.repository.EmployeeRepository;
+import net.alanbinu.springboot2.springboot2jpacrudexample.exception.ResourceNotFoundException;
+import net.alanbinu.springboot2.springboot2jpacrudexample.model.Employee;
+import net.alanbinu.springboot2.springboot2jpacrudexample.repository.EmployeeRepository;
 
 @RestController
 @RequestMapping("/api/v1")
