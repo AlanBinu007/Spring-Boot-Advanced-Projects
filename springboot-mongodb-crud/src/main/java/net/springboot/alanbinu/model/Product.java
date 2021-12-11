@@ -1,4 +1,4 @@
-package net.springboot.javaguides.model;
+package net.springboot.alanbinu.model;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;

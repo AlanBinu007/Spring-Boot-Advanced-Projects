@@ -1,4 +1,4 @@
-package net.springboot.javaguides;
+package net.springboot.alanbinu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
