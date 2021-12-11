@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="828e8c58-711a-4807-9169-464c3c196708" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQ89qLkQ1gjSMKt55JTx3Vg8gN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoronavirusTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.coronavirustracker.CoronavirusTrackerApplication" />
+      <module name="coronavirus-tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.coronavirustracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoronavirusTrackerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="828e8c58-711a-4807-9169-464c3c196708" name="Default Changelist" comment="" />
+      <created>1582863309026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582863309026</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1582866882967">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="709" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1045@0.23.1792.1045" timestamp="1582866882967" />
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1582877759182">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1582877759182">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1582877759181">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759181" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1582877759182">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state x="397" y="184" key="SettingsEditor" timestamp="1582864209243">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="397" y="184" key="SettingsEditor/0.23.1792.1045@0.23.1792.1045" timestamp="1582864209243" />
+    <state x="679" y="330" key="chooseDestDirectoryDialog" timestamp="1582865330854">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="679" y="330" key="chooseDestDirectoryDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1582865330854" />
+    <state x="573" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1582863320118">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="573" y="377" key="com.intellij.ide.util.TipDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1582863320118" />
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup" timestamp="1582864324011">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1582864324011" />
+  </component>
+</project>
