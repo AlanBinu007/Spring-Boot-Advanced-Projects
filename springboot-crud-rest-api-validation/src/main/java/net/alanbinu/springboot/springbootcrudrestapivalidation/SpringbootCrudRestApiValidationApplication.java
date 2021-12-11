@@ -1,4 +1,4 @@
-	package net.guides.springboot.springbootcrudrestapivalidation;
+	package net.alanbinu.springboot.springbootcrudrestapivalidation;
 	
 	import org.springframework.boot.SpringApplication;
 	import org.springframework.boot.autoconfigure.SpringBootApplication;

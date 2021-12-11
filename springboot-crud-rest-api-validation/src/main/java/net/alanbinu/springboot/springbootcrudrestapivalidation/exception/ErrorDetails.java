@@ -1,4 +1,4 @@
-package net.guides.springboot.springbootcrudrestapivalidation.exception;
+package net.alanbinu.springboot.springbootcrudrestapivalidation.exception;
 
 import java.util.Date;
 

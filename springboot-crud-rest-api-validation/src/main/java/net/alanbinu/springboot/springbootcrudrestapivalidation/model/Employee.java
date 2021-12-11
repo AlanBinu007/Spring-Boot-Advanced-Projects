@@ -1,4 +1,4 @@
-	package net.guides.springboot.springbootcrudrestapivalidation.model;
+	package net.alanbinu.springboot.springbootcrudrestapivalidation.model;
 	
 	import javax.persistence.Column;
 	import javax.persistence.Entity;

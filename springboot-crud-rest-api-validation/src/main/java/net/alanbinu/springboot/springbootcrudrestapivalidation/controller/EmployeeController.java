@@ -1,4 +1,4 @@
-	package net.guides.springboot.springbootcrudrestapivalidation.controller;
+	package net.alanbinu.springboot.springbootcrudrestapivalidation.controller;
 	
 	import java.util.HashMap;
 	import java.util.List;
@@ -17,9 +17,9 @@
 	import org.springframework.web.bind.annotation.RequestMapping;
 	import org.springframework.web.bind.annotation.RestController;
 	
-	import net.guides.springboot.springbootcrudrestapivalidation.exception.ResourceNotFoundException;
-	import net.guides.springboot.springbootcrudrestapivalidation.model.Employee;
-	import net.guides.springboot.springbootcrudrestapivalidation.repository.EmployeeRepository;
+	import net.alanbinu.springboot.springbootcrudrestapivalidation.exception.ResourceNotFoundException;
+	import net.alanbinu.springboot.springbootcrudrestapivalidation.model.Employee;
+	import net.alanbinu.springboot.springbootcrudrestapivalidation.repository.EmployeeRepository;
 	
 	@RestController
 	@RequestMapping("/api/v1")
