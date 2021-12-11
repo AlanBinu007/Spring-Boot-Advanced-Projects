@@ -1,4 +1,4 @@
-package net.javaguides.springboot.exception;
+package net.alanbinu.springboot.exception;
 
 import org.springframework.web.bind.annotation.ResponseStatus;
 

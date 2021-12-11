@@ -1,4 +1,4 @@
-package net.javaguides.springboot.service;
+package net.alanbinu.springboot.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import net.javaguides.springboot.exception.ResourceNotFoundException;
-import net.javaguides.springboot.model.Product;
-import net.javaguides.springboot.repository.ProductRepository;
+import net.alanbinu.springboot.exception.ResourceNotFoundException;
+import net.alanbinu.springboot.model.Product;
+import net.alanbinu.springboot.repository.ProductRepository;
 
 @Service
 @Transactional

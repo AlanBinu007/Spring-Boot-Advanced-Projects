@@ -1,4 +1,4 @@
-package net.javaguides.springboot.controller;
+package net.alanbinu.springboot.controller;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.javaguides.springboot.model.Product;
-import net.javaguides.springboot.service.ProductService;
+import net.alanbinu.springboot.model.Product;
+import net.alanbinu.springboot.service.ProductService;
 
 @RestController
 public class ProductController {
