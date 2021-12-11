@@ -1,4 +1,4 @@
-package net.javaguides.springboot;
+package net.alanbinu.springboot;
 
 import javax.jms.ConnectionFactory;
 
@@ -17,11 +17,8 @@ import org.springframework.jms.support.converter.MappingJackson2MessageConverter
 import org.springframework.jms.support.converter.MessageConverter;
 import org.springframework.jms.support.converter.MessageType;
 
-import net.javaguides.springboot.jms.User;
+import net.javaalanbinu.springboot.jms.User;
 
-/**
- * Created by Ramesh Fadatare
- */
 @SpringBootApplication
 @EnableJms
 public class Application {

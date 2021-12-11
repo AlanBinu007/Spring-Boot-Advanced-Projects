@@ -1,8 +1,6 @@
-package net.javaguides.springboot.jms;
+package net.alanbinu.springboot.jms;
 
-/**
- * Created by Ramesh Fadatare
- */
+
 public class Confirmation {
 
     private int ackNumber;

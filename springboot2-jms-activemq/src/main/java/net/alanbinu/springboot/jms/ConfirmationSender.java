@@ -1,12 +1,10 @@
-package net.javaguides.springboot.jms;
+package net.alanbinu.springboot.jms;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.stereotype.Component;
 
-/**
- * Created by Ramesh Fadatare
- */
+
 @Component
 public class ConfirmationSender {
 
