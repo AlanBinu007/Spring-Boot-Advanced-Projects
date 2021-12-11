@@ -1,4 +1,4 @@
-package net.guides.springboot.springbootasyncexample.service;
+package net.alanbinu.springboot.springbootasyncexample.service;
 
 import java.util.concurrent.CompletableFuture;
 
@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import net.guides.springboot.springbootasyncexample.model.User;
+import net.alanbinu.springboot.springbootasyncexample.model.User;
 
 @Service
 public class GitHubLookupService {

@@ -1,4 +1,4 @@
-package net.guides.springboot.springbootasyncexample.model;
+package net.alanbinu.springboot.springbootasyncexample.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

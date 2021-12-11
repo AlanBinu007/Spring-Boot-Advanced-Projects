@@ -1,4 +1,4 @@
-package net.guides.springboot.springbootasyncexample;
+package net.alanbinu.springboot.springbootasyncexample;
 
 import java.util.concurrent.CompletableFuture;
 
@@ -13,8 +13,8 @@ import org.springframework.core.task.TaskExecutor;
 import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
-import net.guides.springboot.springbootasyncexample.model.User;
-import net.guides.springboot.springbootasyncexample.service.GitHubLookupService;
+import net.alanbinu.springboot.springbootasyncexample.model.User;
+import net.alanbinu.springboot.springbootasyncexample.service.GitHubLookupService;
 
 @SpringBootApplication
 @EnableAsync
@@ -48,7 +48,7 @@ public class SpringbootAsyncApplication implements CommandLineRunner {
 		CompletableFuture<User> page1 = gitHubLookupService.findUser("PivotalSoftware");
 		CompletableFuture<User> page2 = gitHubLookupService.findUser("CloudFoundry");
 		CompletableFuture<User> page3 = gitHubLookupService.findUser("Spring-Projects");
-		CompletableFuture<User> page4 = gitHubLookupService.findUser("RameshMF");
+		CompletableFuture<User> page4 = gitHubLookupService.findUser("AlanBinu007");
 		// Wait until they are all done
 		CompletableFuture.allOf(page1, page2, page3, page4).join();
 
