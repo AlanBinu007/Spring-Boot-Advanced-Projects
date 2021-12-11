@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2webappthymeleaf.domain;
+package net.alanbinu.springboot2.springboot2webappthymeleaf.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

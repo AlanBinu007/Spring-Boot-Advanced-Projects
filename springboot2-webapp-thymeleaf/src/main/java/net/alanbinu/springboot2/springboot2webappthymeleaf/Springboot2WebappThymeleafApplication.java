@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2webappthymeleaf;
+package net.alanbinu.springboot2.springboot2webappthymeleaf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
