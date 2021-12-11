@@ -1,4 +1,4 @@
-package net.javaguides.springboot.entity;
+package net.javaalanbinu.springboot.entity;
 
 import javax.persistence.Column;
 import javax.persistence.EmbeddedId;

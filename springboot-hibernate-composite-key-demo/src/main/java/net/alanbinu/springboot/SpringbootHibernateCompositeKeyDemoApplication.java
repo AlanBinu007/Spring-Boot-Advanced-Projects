@@ -1,13 +1,13 @@
-package net.javaguides.springboot;
+package net.javaalanbinu.springboot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import net.javaguides.springboot.entity.Employee;
-import net.javaguides.springboot.entity.EmployeeIdentity;
-import net.javaguides.springboot.repository.EmployeeRepository;
+import net.javaalanbinu.springboot.entity.Employee;
+import net.javaalanbinu.springboot.entity.EmployeeIdentity;
+import net.javaalanbinu.springboot.repository.EmployeeRepository;
 
 @SpringBootApplication
 public class SpringbootHibernateCompositeKeyDemoApplication implements CommandLineRunner{

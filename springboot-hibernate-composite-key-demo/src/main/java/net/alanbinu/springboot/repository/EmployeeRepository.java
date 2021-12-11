@@ -1,12 +1,12 @@
-package net.javaguides.springboot.repository;
+package net.javaalanbinu.springboot.repository;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import net.javaguides.springboot.entity.Employee;
-import net.javaguides.springboot.entity.EmployeeIdentity;
+import net.javaalanbinu.springboot.entity.Employee;
+import net.javaalanbinu.springboot.entity.EmployeeIdentity;
 
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, EmployeeIdentity> {
