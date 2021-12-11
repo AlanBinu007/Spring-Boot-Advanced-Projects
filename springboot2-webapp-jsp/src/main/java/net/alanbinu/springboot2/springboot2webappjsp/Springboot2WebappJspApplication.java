@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2webappjsp;
+package net.alanbinu.springboot2.springboot2webappjsp;
 
 import java.util.Collections;
 

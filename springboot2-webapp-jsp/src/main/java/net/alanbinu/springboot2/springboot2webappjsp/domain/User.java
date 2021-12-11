@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2webappjsp.domain;
+package net.alanbinu.springboot2.springboot2webappjsp.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
