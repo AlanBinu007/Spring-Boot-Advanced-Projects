@@ -1,4 +1,4 @@
-package net.guides.springboot2.jdbc.model;
+package net.alanbinu.springboot2.jdbc.model;
 
 public class Employee {
 

@@ -1,4 +1,4 @@
-package net.guides.springboot2.jdbc.repository;
+package net.alanbinu.springboot2.jdbc.repository;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -11,7 +11,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
-import net.guides.springboot2.jdbc.model.Employee;
+import net.alanbinu.springboot2.jdbc.model.Employee;
 
 @Repository
 public class EmployeeJDBCRepository {

@@ -1,4 +1,4 @@
-package net.guides.springboot2.jdbc;
+package net.alanbinu.springboot2.jdbc;
 
 import org.slf4j.Logger;
 
@@ -8,8 +8,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import net.guides.springboot2.jdbc.model.Employee;
-import net.guides.springboot2.jdbc.repository.EmployeeJDBCRepository;
+import net.alanbinu.springboot2.jdbc.model.Employee;
+import net.alanbinu.springboot2.jdbc.repository.EmployeeJDBCRepository;
 
 @SpringBootApplication
 public class Application implements CommandLineRunner {
