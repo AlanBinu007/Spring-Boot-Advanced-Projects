@@ -1,4 +1,4 @@
-package net.guides.springboot2.crud;
+package net.alanbinu.springboot2.crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
