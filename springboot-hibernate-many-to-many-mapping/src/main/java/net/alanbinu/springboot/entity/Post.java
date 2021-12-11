@@ -1,4 +1,4 @@
-package net.javaguides.springboot.entity;
+package net.alanbinu.springboot.entity;
 
 import java.util.Date;
 import java.util.HashSet;
@@ -18,7 +18,7 @@ import javax.persistence.Table;
 
 /**
  * Post domain model
- * @author javaguides.net
+ * @author alanbinu.net
  *
  */
 @Entity
