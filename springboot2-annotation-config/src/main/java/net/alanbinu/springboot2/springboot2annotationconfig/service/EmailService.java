@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2annotationconfig.service;
+package net.alanbinu.springboot2.springboot2annotationconfig.service;
 
 import org.springframework.stereotype.Service;
 

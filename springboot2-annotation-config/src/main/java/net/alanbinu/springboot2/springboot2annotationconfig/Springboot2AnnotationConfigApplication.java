@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2annotationconfig;
+package net.alanbinu.springboot2.springboot2annotationconfig;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-import net.guides.springboot2.springboot2annotationconfig.service.UserService;
+import net.alanbinu.springboot2.springboot2annotationconfig.service.UserService;
 
 @SpringBootApplication
 public class Springboot2AnnotationConfigApplication {
