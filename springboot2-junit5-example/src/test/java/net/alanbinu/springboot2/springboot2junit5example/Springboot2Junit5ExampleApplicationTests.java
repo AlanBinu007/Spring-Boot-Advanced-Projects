@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2junit5example;
+package net.alanbinu.springboot2.springboot2junit5example;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.DisplayName;

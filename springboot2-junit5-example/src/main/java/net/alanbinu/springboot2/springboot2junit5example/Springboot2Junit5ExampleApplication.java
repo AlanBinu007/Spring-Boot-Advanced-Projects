@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2junit5example;
+package net.alanbinu.springboot2.springboot2junit5example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
