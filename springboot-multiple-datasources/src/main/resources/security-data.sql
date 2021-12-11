@@ -1,7 +1,7 @@
 delete from addresses;
 delete from users;
 
-insert into users(id, name, email,disabled) values(1,'Ramesh','ramesh@gmail.com', false);
+insert into users(id, name, email,disabled) values(1,'Alan','alan@gmail.com', false);
 insert into users(id, name, email,disabled) values(2,'john','john@gmail.com', false);
 insert into users(id, name, email,disabled) values(3,'Salman','salman@gmail.com', true);
 

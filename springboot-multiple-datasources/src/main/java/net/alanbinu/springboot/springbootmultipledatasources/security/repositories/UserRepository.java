@@ -1,17 +1,14 @@
 /**
  * 
  */
-package net.guides.springboot.springbootmultipledatasources.security.repositories;
+package net.alanbinu.springboot.springbootmultipledatasources.security.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
-import net.guides.springboot.springbootmultipledatasources.security.entities.User;
+import net.alanbinu.springboot.springbootmultipledatasources.security.entities.User;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 public interface UserRepository extends JpaRepository<User, Integer>
 {
 	

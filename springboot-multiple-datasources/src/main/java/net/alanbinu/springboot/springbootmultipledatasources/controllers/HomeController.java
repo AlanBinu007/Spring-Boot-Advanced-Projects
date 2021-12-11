@@ -1,5 +1,5 @@
 
-package net.guides.springboot.springbootmultipledatasources.controllers;
+package net.alanbinu.springboot.springbootmultipledatasources.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -8,12 +8,9 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import net.guides.springboot.springbootmultipledatasources.services.UserOrdersService;
+import net.alanbinu.springboot.springbootmultipledatasources.services.UserOrdersService;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 @Controller
 public class HomeController
 {

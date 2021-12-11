@@ -1,5 +1,5 @@
 
-package net.guides.springboot.springbootmultipledatasources.security.entities;
+package net.alanbinu.springboot.springbootmultipledatasources.security.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -10,10 +10,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 @Entity
 @Table(name="ADDRESSES")
 public class Address

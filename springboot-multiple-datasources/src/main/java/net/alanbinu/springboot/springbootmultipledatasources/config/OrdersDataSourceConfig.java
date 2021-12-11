@@ -1,4 +1,4 @@
-package net.guides.springboot.springbootmultipledatasources.config;
+package net.alanbinu.springboot.springbootmultipledatasources.config;
 
 import java.util.Properties;
 
@@ -21,13 +21,10 @@ import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.PlatformTransactionManager;
 
-/**
- * @author Ramesh Fadatare
- * 
- */
+
 @Configuration
 @EnableJpaRepositories(
-		basePackages = "net.guides.springboot.springbootmultipledatasources.orders.repositories",
+		basePackages = "net.alanbinu.springboot.springbootmultipledatasources.orders.repositories",
         entityManagerFactoryRef = "ordersEntityManagerFactory",
         transactionManagerRef = "ordersTransactionManager"
 )
@@ -65,7 +62,7 @@ public class OrdersDataSourceConfig {
     {
     	LocalContainerEntityManagerFactoryBean factory = new LocalContainerEntityManagerFactoryBean();
         factory.setDataSource(ordersDataSource());
-        factory.setPackagesToScan(new String[]{"net.guides.springboot.springbootmultipledatasources.orders.entities"});
+        factory.setPackagesToScan(new String[]{"net.alanbinu.springboot.springbootmultipledatasources.orders.entities"});
         factory.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
 
         Properties jpaProperties = new Properties();

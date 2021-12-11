@@ -1,4 +1,4 @@
-package net.guides.springboot.springbootmultipledatasources;
+package net.alanbinu.springboot.springbootmultipledatasources;
 
 import org.springframework.boot.SpringApplication;
 

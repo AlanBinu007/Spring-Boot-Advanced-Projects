@@ -1,5 +1,5 @@
 
-package net.guides.springboot.springbootmultipledatasources.services;
+package net.alanbinu.springboot.springbootmultipledatasources.services;
 
 import java.util.List;
 
@@ -8,15 +8,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import net.guides.springboot.springbootmultipledatasources.orders.entities.Order;
-import net.guides.springboot.springbootmultipledatasources.orders.repositories.OrderRepository;
-import net.guides.springboot.springbootmultipledatasources.security.entities.User;
-import net.guides.springboot.springbootmultipledatasources.security.repositories.UserRepository;
+import net.alanbinu.springboot.springbootmultipledatasources.orders.entities.Order;
+import net.alanbinu.springboot.springbootmultipledatasources.orders.repositories.OrderRepository;
+import net.alanbinu.springboot.springbootmultipledatasources.security.entities.User;
+import net.alanbinu.springboot.springbootmultipledatasources.security.repositories.UserRepository;
 
-/**
- * @author Ramesh Fadatare
- *
- */
 @Service
 public class UserOrdersService
 {

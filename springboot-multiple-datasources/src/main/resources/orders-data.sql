@@ -1,7 +1,7 @@
 delete from order_items;
 delete from orders;
 
-insert into orders(id, cust_name, cust_email) values(1,'Ramesh','ramesh@gmail.com');
+insert into orders(id, cust_name, cust_email) values(1,'Alan','Alan@gmail.com');
 insert into orders(id, cust_name, cust_email) values(2,'Jonn','sanjay@gmail.com');
 insert into orders(id, cust_name, cust_email) values(3,'Salman','salman@gmail.com');
 

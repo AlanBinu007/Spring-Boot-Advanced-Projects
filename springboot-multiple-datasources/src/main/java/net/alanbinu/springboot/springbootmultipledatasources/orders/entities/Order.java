@@ -1,7 +1,7 @@
 /**
  * 
  */
-package net.guides.springboot.springbootmultipledatasources.orders.entities;
+package net.alanbinu.springboot.springbootmultipledatasources.orders.entities;
 
 import java.util.Set;
 
@@ -14,10 +14,7 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 @Entity
 @Table(name="ORDERS")
 public class Order

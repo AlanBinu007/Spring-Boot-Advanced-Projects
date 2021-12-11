@@ -1,5 +1,5 @@
 
-package net.guides.springboot.springbootmultipledatasources.orders.entities;
+package net.alanbinu.springboot.springbootmultipledatasources.orders.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -9,10 +9,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 @Entity
 @Table(name="ORDER_ITEMS")
 public class OrderItem
