@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.exception;
+package net.alanbinu.springboot2.springboot2jpacrudexample.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
