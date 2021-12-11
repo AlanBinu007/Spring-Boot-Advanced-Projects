@@ -1,4 +1,4 @@
-package net.guides.springboot.loginregistrationspringbootauthjsp.service;
+package net.alanbinu.springboot.loginregistrationspringbootauthjsp.service;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -12,9 +12,9 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import net.guides.springboot.loginregistrationspringbootauthjsp.model.Role;
-import net.guides.springboot.loginregistrationspringbootauthjsp.model.User;
-import net.guides.springboot.loginregistrationspringbootauthjsp.repository.UserRepository;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.model.Role;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.model.User;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.repository.UserRepository;
 
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService{

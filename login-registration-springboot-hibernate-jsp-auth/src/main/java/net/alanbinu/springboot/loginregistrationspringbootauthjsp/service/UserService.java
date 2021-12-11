@@ -1,6 +1,6 @@
-package net.guides.springboot.loginregistrationspringbootauthjsp.service;
+package net.alanbinu.springboot.loginregistrationspringbootauthjsp.service;
 
-import net.guides.springboot.loginregistrationspringbootauthjsp.model.User;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.model.User;
 
 public interface UserService {
     void save(User user);

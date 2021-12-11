@@ -1,4 +1,4 @@
-package net.guides.springboot.loginregistrationspringbootauthjsp;
+package net.alanbinu.springboot.loginregistrationspringbootauthjsp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

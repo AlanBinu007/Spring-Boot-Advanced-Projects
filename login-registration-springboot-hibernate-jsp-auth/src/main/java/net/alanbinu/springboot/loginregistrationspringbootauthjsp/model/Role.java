@@ -1,4 +1,4 @@
-package net.guides.springboot.loginregistrationspringbootauthjsp.model;
+package net.alanbinu.springboot.loginregistrationspringbootauthjsp.model;
 
 import javax.persistence.*;
 

@@ -1,4 +1,4 @@
-package net.guides.springboot.loginregistrationspringbootauthjsp.validator;
+package net.alanbinu.springboot.loginregistrationspringbootauthjsp.validator;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -6,8 +6,8 @@ import org.springframework.validation.Errors;
 import org.springframework.validation.ValidationUtils;
 import org.springframework.validation.Validator;
 
-import net.guides.springboot.loginregistrationspringbootauthjsp.model.User;
-import net.guides.springboot.loginregistrationspringbootauthjsp.service.UserService;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.model.User;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.service.UserService;
 
 @Component
 public class UserValidator implements Validator {

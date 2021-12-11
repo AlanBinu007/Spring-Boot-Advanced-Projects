@@ -1,4 +1,4 @@
-package net.guides.springboot.loginregistrationspringbootauthjsp.service;
+package net.alanbinu.springboot.loginregistrationspringbootauthjsp.service;
 
 import java.util.HashSet;
 
@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import net.guides.springboot.loginregistrationspringbootauthjsp.model.User;
-import net.guides.springboot.loginregistrationspringbootauthjsp.repository.RoleRepository;
-import net.guides.springboot.loginregistrationspringbootauthjsp.repository.UserRepository;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.model.User;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.repository.RoleRepository;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.repository.UserRepository;
 
 @Service
 public class UserServiceImpl implements UserService {

@@ -1,4 +1,4 @@
-package net.guides.springboot.loginregistrationspringbootauthjsp.web;
+package net.alanbinu.springboot.loginregistrationspringbootauthjsp.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import net.guides.springboot.loginregistrationspringbootauthjsp.model.User;
-import net.guides.springboot.loginregistrationspringbootauthjsp.service.UserService;
-import net.guides.springboot.loginregistrationspringbootauthjsp.validator.UserValidator;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.model.User;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.service.UserService;
+import net.alanbinu.springboot.loginregistrationspringbootauthjsp.validator.UserValidator;
 
 @Controller
 public class UserController {
