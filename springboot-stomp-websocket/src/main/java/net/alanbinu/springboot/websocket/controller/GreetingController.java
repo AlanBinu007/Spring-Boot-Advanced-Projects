@@ -1,12 +1,12 @@
-package net.javaguides.springboot.websocket.controller;
+package net.alanbinu.springboot.websocket.controller;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.util.HtmlUtils;
 
-import net.javaguides.springboot.websocket.model.Greeting;
-import net.javaguides.springboot.websocket.model.HelloMessage;
+import net.alanbinu.springboot.websocket.model.Greeting;
+import net.alanbinu.springboot.websocket.model.HelloMessage;
 
 @Controller
 public class GreetingController {

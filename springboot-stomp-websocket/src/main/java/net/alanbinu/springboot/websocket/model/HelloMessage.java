@@ -1,4 +1,4 @@
-package net.javaguides.springboot.websocket.model;
+package net.alanbinu.springboot.websocket.model;
 
 public class HelloMessage {
 
