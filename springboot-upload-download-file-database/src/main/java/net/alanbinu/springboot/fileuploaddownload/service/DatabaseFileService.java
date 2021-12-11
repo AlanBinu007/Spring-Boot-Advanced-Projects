@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.service;
+package net.alanbinu.springboot.fileuploaddownload.service;
 
 import java.io.IOException;
 
@@ -7,10 +7,10 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
 
-import net.javaguides.springboot.fileuploaddownload.exception.FileNotFoundException;
-import net.javaguides.springboot.fileuploaddownload.exception.FileStorageException;
-import net.javaguides.springboot.fileuploaddownload.model.DatabaseFile;
-import net.javaguides.springboot.fileuploaddownload.repository.DatabaseFileRepository;
+import net.alanbinu.springboot.fileuploaddownload.exception.FileNotFoundException;
+import net.alanbinu.springboot.fileuploaddownload.exception.FileStorageException;
+import net.alanbinu.springboot.fileuploaddownload.model.DatabaseFile;
+import net.alanbinu.springboot.fileuploaddownload.repository.DatabaseFileRepository;
 
 @Service
 public class DatabaseFileService {

@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.exception;
+package net.alanbinu.springboot.fileuploaddownload.exception;
 
 public class FileStorageException extends RuntimeException {
 	

@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload;
+package net.alanbinu.springboot.fileuploaddownload;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

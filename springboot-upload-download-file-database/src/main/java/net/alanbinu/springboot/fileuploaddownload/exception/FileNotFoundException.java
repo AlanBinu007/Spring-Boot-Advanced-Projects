@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.exception;
+package net.alanbinu.springboot.fileuploaddownload.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

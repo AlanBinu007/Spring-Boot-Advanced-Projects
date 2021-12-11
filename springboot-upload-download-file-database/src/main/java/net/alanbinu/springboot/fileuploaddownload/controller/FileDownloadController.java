@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.controller;
+package net.alanbinu.springboot.fileuploaddownload.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.javaguides.springboot.fileuploaddownload.model.DatabaseFile;
-import net.javaguides.springboot.fileuploaddownload.service.DatabaseFileService;
+import net.alanbinu.springboot.fileuploaddownload.model.DatabaseFile;
+import net.alanbinu.springboot.fileuploaddownload.service.DatabaseFileService;
 
 @RestController
 public class FileDownloadController {

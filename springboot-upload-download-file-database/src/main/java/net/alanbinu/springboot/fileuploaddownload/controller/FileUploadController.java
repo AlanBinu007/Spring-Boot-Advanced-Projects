@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.controller;
+package net.alanbinu.springboot.fileuploaddownload.controller;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import net.javaguides.springboot.fileuploaddownload.model.DatabaseFile;
-import net.javaguides.springboot.fileuploaddownload.payload.Response;
-import net.javaguides.springboot.fileuploaddownload.service.DatabaseFileService;
+import net.alanbinu.springboot.fileuploaddownload.model.DatabaseFile;
+import net.alanbinu.springboot.fileuploaddownload.payload.Response;
+import net.alanbinu.springboot.fileuploaddownload.service.DatabaseFileService;
 
 @RestController
 public class FileUploadController {

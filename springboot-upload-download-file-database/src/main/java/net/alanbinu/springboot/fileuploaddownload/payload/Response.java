@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.payload;
+package net.alanbinu.springboot.fileuploaddownload.payload;
 
 
 public class Response {

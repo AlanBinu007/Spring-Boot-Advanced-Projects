@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.model;
+package net.alanbinu.springboot.fileuploaddownload.model;
 
 import org.hibernate.annotations.GenericGenerator;
 
