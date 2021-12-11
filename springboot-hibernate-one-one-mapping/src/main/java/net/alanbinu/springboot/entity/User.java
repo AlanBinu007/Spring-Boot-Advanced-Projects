@@ -1,4 +1,4 @@
-package net.javaguides.springboot.entity;
+package net.alanbinu.springboot.entity;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

@@ -1,4 +1,4 @@
-package net.javaguides.springboot;
+package net.alanbinu.springboot;
 
 import java.time.LocalDate;
 
@@ -7,11 +7,11 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import net.javaguides.springboot.entity.Gender;
-import net.javaguides.springboot.entity.User;
-import net.javaguides.springboot.entity.UserProfile;
-import net.javaguides.springboot.repository.UserProfileRepository;
-import net.javaguides.springboot.repository.UserRepository;
+import net.alanbinu.springboot.entity.Gender;
+import net.alanbinu.springboot.entity.User;
+import net.alanbinu.springboot.entity.UserProfile;
+import net.alanbinu.springboot.repository.UserProfileRepository;
+import net.alanbinu.springboot.repository.UserRepository;
 
 @SpringBootApplication
 public class SpringbootHibernateOneOneMappingApplication implements CommandLineRunner {
