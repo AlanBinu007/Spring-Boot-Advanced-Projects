@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2xmlconfig.service;
+package net.alanbinu.springboot2.springboot2xmlconfig.service;
 
 public class MessageProcessorImpl implements MessageProcessor {
 

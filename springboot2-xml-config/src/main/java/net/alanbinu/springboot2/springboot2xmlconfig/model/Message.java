@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2xmlconfig.model;
+package net.alanbinu.springboot2.springboot2xmlconfig.model;
 
 public class Message {
 	private int id;

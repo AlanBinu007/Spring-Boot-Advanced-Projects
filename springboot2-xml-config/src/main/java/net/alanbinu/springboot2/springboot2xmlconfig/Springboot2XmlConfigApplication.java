@@ -1,11 +1,11 @@
-package net.guides.springboot2.springboot2xmlconfig;
+package net.alanbinu.springboot2.springboot2xmlconfig;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ImportResource;
 
-import net.guides.springboot2.springboot2xmlconfig.service.MessageProcessor;
+import net.alanbinu.springboot2.springboot2xmlconfig.service.MessageProcessor;
 
 @SpringBootApplication
 @ImportResource({"classpath*:applicationContext.xml"})
