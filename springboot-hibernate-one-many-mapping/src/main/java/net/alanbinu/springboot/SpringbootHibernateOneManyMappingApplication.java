@@ -1,13 +1,13 @@
-package net.javaguides.springboot;
+package net.alanbinu.springboot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import net.javaguides.springboot.entity.Comment;
-import net.javaguides.springboot.entity.Post;
-import net.javaguides.springboot.repository.PostRepository;
+import net.alanbinu.springboot.entity.Comment;
+import net.alanbinu.springboot.entity.Post;
+import net.alanbinu.springboot.repository.PostRepository;
 
 @SpringBootApplication
 public class SpringbootHibernateOneManyMappingApplication implements CommandLineRunner{
