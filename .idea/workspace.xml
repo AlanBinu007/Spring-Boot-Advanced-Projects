@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1485acfc-cbf1-4bc3-841e-2e5612f366aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filerenamer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-registration-springboot-hibernate-jsp-auth Maven Webapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MERN-SocialMedia-App" beforeDir="false" afterPath="$PROJECT_DIR$/../../MERN-SocialMedia-App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyChat App" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyChat App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../amazone_clone" beforeDir="false" afterPath="$PROJECT_DIR$/../../amazone_clone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e_commerce_app" beforeDir="false" afterPath="$PROJECT_DIR$/../../e_commerce_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../facebook" beforeDir="false" afterPath="$PROJECT_DIR$/../../facebook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insta-Clone/insta_clone_react" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta-Clone/insta_clone_react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linkedin" beforeDir="false" afterPath="$PROJECT_DIR$/../../linkedin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix_clone" beforeDir="false" afterPath="$PROJECT_DIR$/../../netflix_clone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../news-app-react" beforeDir="false" afterPath="$PROJECT_DIR$/../../news-app-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project_corona_tracker" beforeDir="false" afterPath="$PROJECT_DIR$/../../project_corona_tracker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video-chat" beforeDir="false" afterPath="$PROJECT_DIR$/../../video-chat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../whatsapp-clone-react" beforeDir="false" afterPath="$PROJECT_DIR$/../../whatsapp-clone-react" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="227br8ZxCqfLEqxvTkNP3JFzHM9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1485acfc-cbf1-4bc3-841e-2e5612f366aa" name="Changes" comment="" />
+      <created>1639191779653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639191779653</updated>
+    </task>
+    <servers />
+  </component>
+</project>
