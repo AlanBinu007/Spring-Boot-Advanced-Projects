@@ -1,4 +1,4 @@
-package net.javaguides.springbootsecurity.entities;
+package net.alanbinu.springbootsecurity.entities;
 
 import java.util.List;
 
@@ -12,10 +12,7 @@ import javax.persistence.Table;
 
 import org.hibernate.validator.constraints.NotEmpty;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 @Entity
 @Table(name="roles")
 public class Role

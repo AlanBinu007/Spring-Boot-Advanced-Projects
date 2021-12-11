@@ -1,4 +1,4 @@
-package net.javaguides.springbootsecurity.config;
+package net.alanbinu.springbootsecurity.config;
 
 import javax.sql.DataSource;
 

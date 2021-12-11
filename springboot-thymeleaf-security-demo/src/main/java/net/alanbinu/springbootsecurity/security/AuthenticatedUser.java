@@ -1,4 +1,4 @@
-package net.javaguides.springbootsecurity.security;
+package net.alanbinu.springbootsecurity.security;
 
 import java.util.Collection;
 import java.util.HashSet;
@@ -8,13 +8,10 @@ import java.util.Set;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.AuthorityUtils;
 
-import net.javaguides.springbootsecurity.entities.Role;
-import net.javaguides.springbootsecurity.entities.User;
+import net.alanbinu.springbootsecurity.entities.Role;
+import net.alanbinu.springbootsecurity.entities.User;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 public class AuthenticatedUser extends org.springframework.security.core.userdetails.User
 {
 

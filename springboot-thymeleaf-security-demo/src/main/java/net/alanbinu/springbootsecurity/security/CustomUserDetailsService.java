@@ -1,4 +1,4 @@
-package net.javaguides.springbootsecurity.security;
+package net.alanbinu.springbootsecurity.security;
 
 import java.util.Collection;
 
@@ -11,13 +11,10 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import net.javaguides.springbootsecurity.entities.User;
-import net.javaguides.springbootsecurity.repositories.UserRepository;
+import net.alanbinu.springbootsecurity.entities.User;
+import net.alanbinu.springbootsecurity.repositories.UserRepository;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 @Service
 @Transactional
 public class CustomUserDetailsService implements UserDetailsService {

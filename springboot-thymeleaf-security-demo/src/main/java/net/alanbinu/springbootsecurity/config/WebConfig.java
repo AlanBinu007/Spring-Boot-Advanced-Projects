@@ -1,4 +1,4 @@
-package net.javaguides.springbootsecurity.config;
+package net.alanbinu.springbootsecurity.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
@@ -10,10 +10,7 @@ import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.thymeleaf.extras.springsecurity4.dialect.SpringSecurityDialect;
 
-/**
- * @author Ramesh Fadatare
- *
- */
+
 @Configuration
 public class WebConfig implements WebMvcConfigurer
 {   

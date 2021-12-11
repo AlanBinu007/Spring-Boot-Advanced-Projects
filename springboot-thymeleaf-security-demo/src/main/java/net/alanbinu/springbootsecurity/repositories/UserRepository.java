@@ -1,16 +1,12 @@
-package net.javaguides.springbootsecurity.repositories;
+package net.alanbinu.springbootsecurity.repositories;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import net.javaguides.springbootsecurity.entities.User;
+import net.alanbinu.springbootsecurity.entities.User;
 
 
-/**
- * @author Ramesh Fadatare
- *
- */
 public interface UserRepository extends JpaRepository<User, Integer>
 {
 
