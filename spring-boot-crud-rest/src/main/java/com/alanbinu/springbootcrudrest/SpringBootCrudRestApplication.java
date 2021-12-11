@@ -1,4 +1,4 @@
-package com.companyname.springbootcrudrest;
+package com.alanbinu.springbootcrudrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

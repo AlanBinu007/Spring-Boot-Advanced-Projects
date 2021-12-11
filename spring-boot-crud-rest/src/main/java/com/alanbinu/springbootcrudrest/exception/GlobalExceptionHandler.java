@@ -1,4 +1,4 @@
-package com.companyname.springbootcrudrest.exception;
+package com.alanbinu.springbootcrudrest.exception;
 
 import java.util.Date;
 

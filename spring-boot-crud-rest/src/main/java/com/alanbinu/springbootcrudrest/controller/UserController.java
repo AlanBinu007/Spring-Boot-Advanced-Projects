@@ -1,4 +1,4 @@
-package com.companyname.springbootcrudrest.controller;
+package com.alanbinu.springbootcrudrest.controller;
 
 import java.util.Date;
 import java.util.HashMap;
@@ -18,9 +18,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.companyname.springbootcrudrest.exception.ResourceNotFoundException;
-import com.companyname.springbootcrudrest.model.User;
-import com.companyname.springbootcrudrest.repository.UserRepository;
+import com.alanbinu.springbootcrudrest.exception.ResourceNotFoundException;
+import com.alanbinu.springbootcrudrest.model.User;
+import com.alanbinu.springbootcrudrest.repository.UserRepository;
 
 @RestController
 @RequestMapping("/api/v1")
