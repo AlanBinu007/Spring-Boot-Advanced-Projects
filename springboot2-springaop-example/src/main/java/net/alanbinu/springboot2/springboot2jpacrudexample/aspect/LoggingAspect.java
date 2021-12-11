@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.aspect;
+package net.alanbinu.springboot2.springboot2jpacrudexample.aspect;
 
 import java.util.Arrays;
 
@@ -36,9 +36,9 @@ public class LoggingAspect {
     /**
      * Pointcut that matches all Spring beans in the application's main packages.
      */
-    @Pointcut("within(net.guides.springboot2.springboot2jpacrudexample..*)"+
-        " || within(net.guides.springboot2.springboot2jpacrudexample.service..*)"+
-        " || within(net.guides.springboot2.springboot2jpacrudexample.controller..*)")
+    @Pointcut("within(net.alanbinu.springboot2.springboot2jpacrudexample..*)"+
+        " || within(net.alanbinu.springboot2.springboot2jpacrudexample.service..*)"+
+        " || within(net.alanbinu.springboot2.springboot2jpacrudexample.controller..*)")
     public void applicationPackagePointcut() {
         // Method is empty as this is just a Pointcut, the implementations are in the advices.
     }
