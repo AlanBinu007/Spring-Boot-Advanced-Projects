@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AlanBinu007/Spring-Boot-Advanced-Tutorials/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Spring Boot Advanced Tutorials
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Here we are maked almost all types of Spring Boot Applications that you suggested via linkedin/Gmail, If you are looking something that is out of the box then just ping me in linkedin or mail with your required project i will make the template for you for free**
 
-### Markdown
+**Happy Coding always  Love from Alan**💖
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Spring Boot Offical Webpage** - ***https://spring.io/*** <br>
+**Spring Boot Reference Documentation** - ***https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-help***
 
-```markdown
-Syntax highlighted code block
+## Tech We Used Till Now
 
-# Header 1
-## Header 2
-### Header 3
+- Spring Boot
+- JPA
+- Thymeleaf
+- Spring Cloud
+- Spring Security
+- PostgreSql
+- MySql
+- MongoDb
+- Junit
+- H2-Database
+- Logging
+- Logging and Logout
+- API
+- REST API
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Steps to run in your machine
 
-**Bold** and _Italic_ and `Code` text
+#### Follow the below Steps
+```
+Clone the Repo
 
-[Link](url) and ![Image](src)
+Open your project with your favorite ide
+
+Make the necessary changes -> Save
+
+Right click on the application Run as -> Spring Boot
+
+Then go to http://localhost:8080/  using any browser
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlanBinu007/Spring-Boot-Advanced-Tutorials/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Hope you liked this project, don't forget to ⭐ the repo.
