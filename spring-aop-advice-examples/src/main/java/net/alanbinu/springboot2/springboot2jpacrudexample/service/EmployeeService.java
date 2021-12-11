@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.service;
+package net.alanbinu.springboot2.springboot2jpacrudexample.service;
 
 import java.util.HashMap;
 import java.util.List;
@@ -8,9 +8,9 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import net.guides.springboot2.springboot2jpacrudexample.exception.ResourceNotFoundException;
-import net.guides.springboot2.springboot2jpacrudexample.model.Employee;
-import net.guides.springboot2.springboot2jpacrudexample.repository.EmployeeRepository;
+import net.alanbinu.springboot2.springboot2jpacrudexample.exception.ResourceNotFoundException;
+import net.alanbinu.springboot2.springboot2jpacrudexample.model.Employee;
+import net.alanbinu.springboot2.springboot2jpacrudexample.repository.EmployeeRepository;
 
 /**
  * Employee Service

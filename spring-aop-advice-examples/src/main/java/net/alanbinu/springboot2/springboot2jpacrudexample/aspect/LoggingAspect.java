@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.aspect;
+package net.alanbinu.springboot2.springboot2jpacrudexample.aspect;
 
 import java.util.Arrays;
 
@@ -30,7 +30,7 @@ public class LoggingAspect {
 	 * Run before the method execution.
 	 * @param joinPoint
 	 */
-	@Before("execution(* net.guides.springboot2.springboot2jpacrudexample.service.EmployeeService.addEmployee(..))")
+	@Before("execution(* net.alanbinu.springboot2.springboot2jpacrudexample.service.EmployeeService.addEmployee(..))")
 	public void logBefore(JoinPoint joinPoint) {
 		log.debug("logBefore running .....");
 		log.debug("Enter: {}() with argument[s] = {}", joinPoint.getSignature().getDeclaringTypeName(),
@@ -42,7 +42,7 @@ public class LoggingAspect {
 	 * Run after the method returned a result.
 	 * @param joinPoint
 	 */
-	@After("execution(* net.guides.springboot2.springboot2jpacrudexample.service.EmployeeService.addEmployee(..))")
+	@After("execution(* net.alanbinu.springboot2.springboot2jpacrudexample.service.EmployeeService.addEmployee(..))")
 	public void logAfter(JoinPoint joinPoint) {
 		log.debug("logAfter running .....");
 		log.debug("Enter: {}() with argument[s] = {}", joinPoint.getSignature().getDeclaringTypeName(),
@@ -54,7 +54,7 @@ public class LoggingAspect {
 	 * @param joinPoint
 	 * @param result
 	 */
-	@AfterReturning(pointcut = "execution(* net.guides.springboot2.springboot2jpacrudexample.service.EmployeeService.deleteEmployee(..))", returning = "result")
+	@AfterReturning(pointcut = "execution(* net.alanbinu.springboot2.springboot2jpacrudexample.service.EmployeeService.deleteEmployee(..))", returning = "result")
 	public void logAfterReturning(JoinPoint joinPoint, Object result) {
 		log.debug("logAfterReturning running .....");
 		log.debug("Enter: {}() with argument[s] = {}", joinPoint.getSignature().getDeclaringTypeName(),
@@ -68,7 +68,7 @@ public class LoggingAspect {
 	 * @return
 	 * @throws Throwable
 	 */
-	@Around("execution(* net.guides.springboot2.springboot2jpacrudexample.service.EmployeeService.getEmployeeById(..))")
+	@Around("execution(* net.alanbinu.springboot2.springboot2jpacrudexample.service.EmployeeService.getEmployeeById(..))")
 	public Object logAround(ProceedingJoinPoint joinPoint) throws Throwable {
 		log.debug("logAround running .....");
 		if (log.isDebugEnabled()) {
@@ -97,7 +97,7 @@ public class LoggingAspect {
 	 * @param e         exception
 	 */
 
-	@AfterThrowing(pointcut = "execution(* net.guides.springboot2.springboot2jpacrudexample.service.EmployeeService.updateEmployee(..))", throwing = "error")
+	@AfterThrowing(pointcut = "execution(* net.alanbinu.springboot2.springboot2jpacrudexample.service.EmployeeService.updateEmployee(..))", throwing = "error")
 	public void logAfterThrowing(JoinPoint joinPoint, Throwable error) {
 		log.debug("logAfterThrowing running .....");
 		log.error("Exception in {}.{}() with cause = {}", joinPoint.getSignature().getDeclaringTypeName(),
