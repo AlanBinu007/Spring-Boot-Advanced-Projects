@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2logging;
+package net.alanbinu.springboot2.springboot2logging;
 
 public class Article {
 	private int id;
