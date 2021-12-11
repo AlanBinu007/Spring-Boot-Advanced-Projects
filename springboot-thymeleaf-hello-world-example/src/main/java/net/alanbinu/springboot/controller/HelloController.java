@@ -1,4 +1,4 @@
-package net.javaguides.springboot.controller;
+package net.alanbinu.springboot.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
