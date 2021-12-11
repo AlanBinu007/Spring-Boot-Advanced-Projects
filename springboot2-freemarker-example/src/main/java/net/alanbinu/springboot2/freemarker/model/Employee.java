@@ -1,4 +1,4 @@
-package net.guides.springboot2.freemarker.model;
+package net.alanbinu.springboot2.freemarker.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

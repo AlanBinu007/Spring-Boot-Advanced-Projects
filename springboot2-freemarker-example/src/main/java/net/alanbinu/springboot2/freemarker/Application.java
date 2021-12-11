@@ -1,4 +1,4 @@
-package net.guides.springboot2.freemarker;
+package net.alanbinu.springboot2.freemarker;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import net.guides.springboot2.freemarker.model.Employee;
-import net.guides.springboot2.freemarker.repository.EmployeeRepository;
+import net.alanbinu.springboot2.freemarker.model.Employee;
+import net.alanbinu.springboot2.freemarker.repository.EmployeeRepository;
 
 @SpringBootApplication
 public class Application implements CommandLineRunner {
@@ -23,7 +23,7 @@ public class Application implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
-		employeeRepository.save(new Employee("Ramesh", "Fadatare", "ramesh@gmail.com"));
+		employeeRepository.save(new Employee("Alan", "Binu", "alan@gmail.com"));
 		employeeRepository.save(new Employee("Tom", "Cruise", "tom@gmail.com"));
 		employeeRepository.save(new Employee("John", "Cena", "john@gmail.com"));
 		employeeRepository.save(new Employee("tony", "stark", "stark@gmail.com"));

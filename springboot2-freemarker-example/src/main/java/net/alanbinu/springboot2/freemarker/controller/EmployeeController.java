@@ -1,4 +1,4 @@
-package net.guides.springboot2.freemarker.controller;
+package net.alanbinu.springboot2.freemarker.controller;
 
 import java.util.HashMap;
 import java.util.List;
@@ -10,8 +10,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import net.guides.springboot2.freemarker.model.Employee;
-import net.guides.springboot2.freemarker.repository.EmployeeRepository;
+import net.alanbinu.springboot2.freemarker.model.Employee;
+import net.alanbinu.springboot2.freemarker.repository.EmployeeRepository;
 
 @Controller
 public class EmployeeController {
