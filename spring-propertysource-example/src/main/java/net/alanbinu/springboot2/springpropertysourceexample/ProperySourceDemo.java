@@ -19,6 +19,7 @@ public class ProperySourceDemo implements InitializingBean {
 	public void afterPropertiesSet() throws Exception {
 		setDatabaseConfig();
 	}
+	//here we are storing all our details in env so it is secure
 
 	private void setDatabaseConfig() {
 		DataSourceConfig config = new DataSourceConfig();
