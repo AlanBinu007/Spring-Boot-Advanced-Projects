@@ -1,4 +1,4 @@
-package net.guides.springboot.jpa.controller;
+package net.alanbinu.springboot.jpa.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
