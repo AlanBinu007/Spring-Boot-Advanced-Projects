@@ -1,4 +1,4 @@
-package net.guides.springboot.jpa.controller;
+package net.alanbinu.springboot.jpa.controller;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
