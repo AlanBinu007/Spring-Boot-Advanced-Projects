@@ -1,4 +1,4 @@
-package net.guides.springboot.jpa.repository;
+package net.alanbinu.springboot.jpa.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
