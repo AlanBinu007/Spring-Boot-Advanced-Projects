@@ -9,5 +9,8 @@ class CoronavirusTrackerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	//here we are adding oue new test cases
+	//@Test used to craete a new trsst case in this porject
 
 }
+
