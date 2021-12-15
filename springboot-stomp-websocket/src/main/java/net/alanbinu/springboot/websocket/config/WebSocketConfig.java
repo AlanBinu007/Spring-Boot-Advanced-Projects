@@ -1,3 +1,4 @@
+
 package net.alanbinu.springboot.websocket.config;
 
 import org.springframework.context.annotation.Configuration;
