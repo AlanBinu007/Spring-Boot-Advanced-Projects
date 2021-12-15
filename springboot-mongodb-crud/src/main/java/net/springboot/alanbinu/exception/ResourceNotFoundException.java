@@ -1,3 +1,4 @@
+
 package net.springboot.alanbinu.exception;
 
 import org.springframework.web.bind.annotation.ResponseStatus;
