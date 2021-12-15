@@ -26,7 +26,7 @@ public class EmployeeRepositoryTests {
 	@Test
 	public void testSaveEmployee() {
 		
-		Employee employee = new Employee("admin", "admin", "admin@gmail.com");
+		Employee employee = new Employee("alan", "alan", "alan@gmail.com");
 		Long id = entityManager.persistAndGetId(employee, Long.class);
 		assertNotNull(id);
 		Employee employee2 = employeeRepository.findByFirstName("admin");
@@ -40,7 +40,7 @@ public class EmployeeRepositoryTests {
 	@Test
 	public void testGetEmployee() {
 
-		Employee employee = new Employee("admin", "admin", "admin@gmail.com");
+		Employee employee = new Employee("alan", "alan", "alan@gmail.com");
 		employeeRepository.save(employee);
 		Employee employee2 = employeeRepository.findByFirstName("admin");
 		assertNotNull(employee);
@@ -50,7 +50,7 @@ public class EmployeeRepositoryTests {
 	
 	@Test
 	public void testDeleteEmployee() {
-		Employee employee = new Employee("admin", "admin", "admin@gmail.com");
+		Employee employee = new Employee("alan", "alan", "alan@gmail.com");
 		employeeRepository.save(employee);
 		employeeRepository.delete(employee);
 	}
