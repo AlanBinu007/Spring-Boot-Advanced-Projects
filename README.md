@@ -27,6 +27,7 @@
 - REST API
 - SLF4J
 - LOG4J2
+- Jersey
 
 
 ## Steps to run in your machine
