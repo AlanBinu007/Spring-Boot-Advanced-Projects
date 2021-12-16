@@ -25,6 +25,8 @@
 - Swagger 2
 - API Calls
 - REST API
+- SLF4J
+- LOG4J2
 
 
 ## Steps to run in your machine
