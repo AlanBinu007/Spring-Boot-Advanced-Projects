@@ -43,7 +43,6 @@ Make the necessary changes -> Save
 
 Right click on the application Run as -> Spring Boot
 
-Then go to http://localhost:8080/  using any browser
 ```
 
 
