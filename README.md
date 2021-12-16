@@ -28,6 +28,7 @@
 - SLF4J
 - LOG4J2
 - Jersey
+- ActiveMQ
 
 
 ## Steps to run in your machine
