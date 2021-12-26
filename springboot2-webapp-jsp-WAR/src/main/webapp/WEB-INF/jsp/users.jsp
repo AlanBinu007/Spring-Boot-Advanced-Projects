@@ -13,7 +13,7 @@
 <body>
 	<div class="container">
 		<header>
-			<h1>Spring MVC + JSP + JPA + Spring Boot 2</h1>
+			<h1>Spring MVC + JSP + JPA + Spring Boot 2 By Alan Binu</h1>
 		</header>
 		<div class="starter-template">
 			<h1>Users List</h1>
