@@ -1,4 +1,4 @@
-package net.javaguides.springboot.fileuploaddownload.controller;
+package net.alanbinu.springboot.fileuploaddownload.controller;
 
 import java.io.IOException;
 
