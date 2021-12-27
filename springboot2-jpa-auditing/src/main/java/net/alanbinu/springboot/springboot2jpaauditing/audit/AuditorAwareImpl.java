@@ -1,4 +1,4 @@
-package net.guides.springboot.springboot2jpaauditing.audit;
+package net.alanbinu.springboot.springboot2jpaauditing.audit;
 
 import java.util.Optional;
 
