@@ -1,4 +1,4 @@
-package net.guides.springboot.jpa.model;
+package net.alanbinu.springboot.jpa.model;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
