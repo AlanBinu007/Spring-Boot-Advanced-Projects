@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2externalizingconfproperties;
+package net.alanbinu.springboot2.springboot2externalizingconfproperties;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
