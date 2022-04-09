@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: user-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: basantkumar.h
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/user-app
+Created-By: Maven Integration for Eclipse
+
