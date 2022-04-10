@@ -11,7 +11,7 @@
 ## Tech We Used Till Now
 
 - Spring Boot
-- Spring Cloud Load Balanceing using Robbin Load Balancer
+- Load Balancer
 - JPA
 - Thymeleaf
 - Spring Cloud
